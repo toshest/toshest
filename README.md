@@ -1,16 +1,23 @@
-## Hi there 👋
+# Toshest
 
-<!--
-**toshest/toshest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Toshest** is a unified digital ecosystem that simplifies and connects every part of your digital life — from productivity and communication to wellness, smart devices, and AI assistance.
 
-Here are some ideas to get you started:
+Built with **Node.js**, **C++**, **Python**, **Flutter**, and **React**, Toshest leverages cross-platform intelligence and context to create a seamless user experience across devices and domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the heart of Toshest is **Myia**, your personal AI assistant that understands you, adapts to your lifestyle, and helps you live more efficiently.
+
+---
+
+### Features at a Glance
+- AI-powered assistant (Myia)
+- Smart calendar and task management
+- Contextual cooking and pantry tools
+- Integrated shopping and budgeting
+- Health, wellness, and device sync
+- Seamless cross-device experience
+
+---
+
+### Contact
+Have questions, feedback, or want to collaborate?  
+**Email:** toshestco@gmail.com  
